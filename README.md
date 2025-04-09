@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Chandan S Gowda
+#  Hi 👋, I'm Naveen jalaraddi
 I am student <br>
 
 
