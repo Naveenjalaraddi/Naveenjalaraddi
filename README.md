@@ -1,4 +1,4 @@
-         #Hi 👋, I'm Naveen jalaraddi
+#Hi 👋, I'm Naveen jalaraddi
 I am student <br>
 
 
