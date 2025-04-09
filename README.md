@@ -1,4 +1,4 @@
-# # # # # # Hi 👋, I'm Chandan S Gowda
+#  Hi 👋, I'm Chandan S Gowda
 I am student <br>
 
 
