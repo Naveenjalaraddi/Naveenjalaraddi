@@ -1,6 +1,6 @@
 #  Hi 👋, I'm Naveen jalaraddi
 I am student <br>
----
+
 [![](https://visitcount.itsvg.in/api?id=Naveenjalaraddi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
