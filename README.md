@@ -1,7 +1,7 @@
-#  Hi 👋, I'm Naveen jalaraddi
-I am student <br>
+<h1 align="center"> Hi 👋, I'm Naveen jalaraddi</h1>
+<h3 align="center"> I am MCA Student AIGS Bangalore 🇮🇳  </h3># 
 
-[![Visit_count](https://visitcount.itsvg.in/api?id=Naveenjalaraddi&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Naveenjalaraddi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
