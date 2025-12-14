@@ -1,5 +1,7 @@
 #  Hi 👋, I'm Naveen jalaraddi
 I am student <br>
+---
+[![](https://visitcount.itsvg.in/api?id=Naveenjalaraddi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -13,6 +15,6 @@ I am student <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenjalaraddi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naveenjalaraddi&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
