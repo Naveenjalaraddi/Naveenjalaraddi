@@ -1,5 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Naveen jalaraddi</h1>
-<h3 align="center"> I am MCA Student AIGS Bangalore 🇮🇳  </h3># 
+<h3 align="center"> I am MCA Student AIGS Bangalore 🇮🇳  </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
 
 [![](https://visitcount.itsvg.in/api?id=Naveenjalaraddi&icon=5&color=1)](https://visitcount.itsvg.in)
 
