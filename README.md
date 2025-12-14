@@ -5,7 +5,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Naveenjalaraddi&icon=5&color=1)](https://visitcount.itsvg.in)
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1G2cxvit7S/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveen_j4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PRINCEN69270124) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naveenjalaraddi82@gmail.com) 
 
