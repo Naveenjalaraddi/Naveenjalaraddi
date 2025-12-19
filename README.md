@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Naveen jalaraddi</h1>
-<h3 align="center"> I am MCA Student AIGS Bangalore 🇮🇳  </h3>
+<h3 align="center"> MCA,AIGS Bangalore 🇮🇳  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Naveenjalaraddi&label=Profile%20views&color=0e75b6&style=flat" alt="Naveenjalaraddi" /> </p>
 
